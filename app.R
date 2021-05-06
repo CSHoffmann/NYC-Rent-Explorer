@@ -1,4 +1,3 @@
-
 # Authors: Yashar Mansouri, Joshua O'Steen, Christopher Hoffman
 
 library(shiny)
