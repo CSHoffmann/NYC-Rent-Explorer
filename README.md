@@ -5,7 +5,7 @@
   <p align="center">
     The purpose of this Shiny app is to provide insights for renters, landlords, and multifamily market researchers in New York City with up to date and useful analysis of rental market data and trends. 
     <br />
-    <a href="https://github.com/STAT-413-613-21S/fp_final-project-cjy"><strong>Explore the repo »</strong></a>
+    <a href="https://cshoffmann.shinyapps.io/nyc-rent-explorer/"><strong>Explore the app »</strong></a>
   </p>
 </p>
 

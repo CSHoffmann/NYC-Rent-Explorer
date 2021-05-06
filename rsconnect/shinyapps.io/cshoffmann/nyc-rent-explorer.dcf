@@ -5,10 +5,10 @@ account: cshoffmann
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4087322
-bundleId: 4563438
+bundleId: 4563496
 url: https://cshoffmann.shinyapps.io/nyc-rent-explorer/
-when: 1620273319.71919
-lastSyncTime: 1620273319.71919
+when: 1620274204.34074
+lastSyncTime: 1620274204.34074
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data/all_data.csv|data/all_data_longer.csv|gifs/tab1-example-video.gif|gifs/tab2-example-1.gif|gifs/tab2-example-2.gif|gifs/tab3-example-1.gif|gifs/tab3-example-2.gif|images/spreadsheet-example.png|individual-analyses/test-chris.Rmd|individual-analyses/test-josh.Rmd|individual-analyses/test-yashar.Rmd|LICENSE.txt|project-plan/project-plan.pdf|project-plan/project-plan.Rmd|README.html|README.md|vignette/vignette.html|vignette/Vignette.Rmd|data-raw
+ignoredFiles: data/all_data.csv|data/all_data_longer.csv|gifs/tab1-example-video.gif|gifs/tab2-example-1.gif|gifs/tab2-example-2.gif|gifs/tab3-example-1.gif|gifs/tab3-example-2.gif|images/spreadsheet-example.png|individual-analyses/test-chris.Rmd|individual-analyses/test-josh.Rmd|individual-analyses/test-yashar.Rmd|LICENSE.txt|project-plan/project-plan.pdf|project-plan/project-plan.Rmd|README.html|README.md|vignette/vignette.html|vignette/vignette.Rmd|data-raw

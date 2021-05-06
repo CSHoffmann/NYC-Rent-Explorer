@@ -67,7 +67,7 @@ ui <- fluidPage(theme = shinytheme("cosmo"),
                                               choices = apartment_types, 
                                               selected = "Studio"),
                                   
-                                  h1("Welcome to the NYC Rent Data Explorer!"), 
+                                  h1("Welcome to the NYC Rent Explorer!"), 
                                   p("This web application is designed for the benefit of renters, landlords, and multifamily market researchers in New York City with up to date and useful analysis of rental market data and trends."),
                                   p("The rent data comes from", a(href = "https://streeteasy.com/blog/download-data/", "StreetEasy.com,"), "an online real estate and apartment marketplace compnay exclusively for New York City homes and apartments."), 
                                   p("This web application is proudly made by", a(href = "https://www.linkedin.com/in/jvosteen/", "Josh Vera O'Steen", .noWS=c("after")),",", a(href = "https://www.linkedin.com/in/yasharmansouri/", "Yashar Mansouri", .noWS=c("after")), ", and", a(href = "https://www.linkedin.com/in/christopher-hoffmann/", "Christopher Hoffman", .noWS=c("after")),". For contact information and further details on this project, please refer to the README and Vignette files found in our",
