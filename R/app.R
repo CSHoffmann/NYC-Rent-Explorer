@@ -12,9 +12,9 @@ library(dygraphs)
 library(shinycssloaders)
 
 # getting data
-df <- read_rds("../data/all_data.rds")
-df_longer <- read_rds("../data/all_data_longer.rds")
-nyc_neighborhoods <- readOGR("../data/ny.geojson", layer = "ny")
+df <- read_rds("./data/all_data.rds")
+df_longer <- read_rds("./data/all_data_longer.rds")
+nyc_neighborhoods <- readOGR("./data/ny.geojson", layer = "ny")
 #reused values
 apartment_types <- c("Studio", 
                      "One Bedroom" = "One_Bedroom",
